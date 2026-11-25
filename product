@@ -1,0 +1,16 @@
+<head>
+  <meta charset="UTF-8">
+  <title>"Эта страница в разработке</title>
+  <style>
+    body {
+      background-image: url("https://github.com/niti634/schoolman/blob/main/2b715fae82711f183a53a6ca34e81cf_1.jpeg?raw=true");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-color: ;
+      min-height: 100vh;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
